@@ -1,0 +1,11 @@
+Recomendação: 
+
+Dado o status "Possível fraude", a localização e o horário de compra não usuais, além do alto valor da transação, recomendamos que o setor Anti-Fraude seja acionado imediatamente para uma análise mais aprofundada sobre a referida transação. 
+
+Além disso, sugerimos que o cliente seja notificado sobre a atividade suspeita em sua conta. É de suma importância verificar se foi ele quem executou a compra ou se tem conhecimento sobre ela. 
+
+Também é recomendável uma Verificação Manual. Essa verificação irá fornecer um segundo olhar sobre a transação e pode revelar se outras transações de alto valor foram feitas recentemente.
+
+Classificação de Fraude: 
+
+A fraude pode ser classificada como 'Fraude de Cartão de Crédito', dado que parece ser uma atividade suspeita em uma conta de usuário que pode implicar no uso indevido de suas informações de cartão de crédito.
